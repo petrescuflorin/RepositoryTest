@@ -1,2 +1,5 @@
 use System;
 use System.IO;
+
+public class Test {
+}
